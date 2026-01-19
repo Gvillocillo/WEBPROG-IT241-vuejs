@@ -9,8 +9,8 @@
 export default {
   data() {
     return {
-      name: 'Sisig',
-      message: 'I want some Sisig'
+      name: 'Sisig', 
+      message: 'I want some Sisig', 
     }
   }
 };
